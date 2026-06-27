@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "node tests/auth.test.js && node tests/dashboard.test.js",
+    "format:check": "npx prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
