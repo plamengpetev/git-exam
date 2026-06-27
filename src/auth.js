@@ -7,3 +7,8 @@ function login() {
 function validateUser(username, password) {
     return username.length > 0 && password.length > 0;
 }
+
+// Step 2 - Password validation
+function validatePassword(password) {
+    return password.length >= 8;
+}
