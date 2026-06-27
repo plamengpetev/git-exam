@@ -12,3 +12,8 @@ function getDashboardTitle() {
 function loadStatistics() {
     return [];
 }
+
+// Step 3 - Dashboard refresh
+function refreshDashboard() {
+    return 'Dashboard refreshed';
+}
