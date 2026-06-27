@@ -5,5 +5,7 @@
   "securityPatch": "enabled",
   "version": "1.0.0",
   "authFeature": "enabled",
-  "loginStrategy": "password"
+  "loginStrategy": "password",
+  "dashboardFeature": "enabled",
+  "theme": "dark"
 }
