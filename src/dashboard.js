@@ -7,3 +7,8 @@ function loadDashboard() {
 function getDashboardTitle() {
     return 'Main Dashboard';
 }
+
+// Step 2 - Dashboard statistics
+function loadStatistics() {
+    return [];
+}
