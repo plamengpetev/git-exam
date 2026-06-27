@@ -1,2 +1,2 @@
 // Authentication tests
-console.log('Auth tests');
+console.log("Auth tests");
