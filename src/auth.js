@@ -12,3 +12,8 @@ function validateUser(username, password) {
 function validatePassword(password) {
     return password.length >= 8;
 }
+
+// Step 3 - Logout functionality
+function logout() {
+    return true;
+}
