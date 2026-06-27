@@ -1,1 +1,6 @@
+{
+  "environment": "production",
+  "authentication": true,
+  "database": "secure_connection",
+  "securityPatch": "enabled"
 }
