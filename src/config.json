@@ -4,8 +4,6 @@
   "database": "secure_connection",
   "securityPatch": "enabled",
   "version": "1.0.0",
-  "authFeature": "enabled",
-  "loginStrategy": "password",
   "dashboardFeature": "enabled",
   "theme": "dark"
 }
