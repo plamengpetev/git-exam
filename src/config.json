@@ -2,5 +2,8 @@
   "environment": "production",
   "authentication": true,
   "database": "secure_connection",
-  "securityPatch": "enabled"
+  "securityPatch": "enabled",
+  "version": "1.0.0",
+  "authFeature": "enabled",
+  "loginStrategy": "password"
 }
